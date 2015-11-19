@@ -1,0 +1,51 @@
+body{
+	text-align:center;
+	font-family: meiryo sans-serif;
+	background-color: rgba(0,255,255, 0.1);
+}
+
+button{
+	width:100px;
+	height:50px;
+	font-size:24px;
+	border-radius:5px;
+	margin-top:20px;
+}
+
+#btnred{
+	background:red;
+}
+
+#btnblue{
+	background:blue;
+}
+
+#btnyellow{
+	background:yellow;
+}
+
+#btngreen{
+	background:green;
+}
+
+button:hover{
+	cursor: pointer;
+}
+
+table{
+	margin:40px auto;
+}
+
+div{
+	width:200px;
+	height:40px;
+}
+
+#div1{
+	border:2px solid gray;
+}
+
+#title{
+	text-shadow: 2px 2px 5px rgba(200,127,50,0.6);
+	font-size:32px;
+}
